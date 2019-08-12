@@ -1,0 +1,433 @@
+temp	var	treat(µM-h)	det	rep	%g
+3C 	Zarfam	50-24	non deteriorated	1	58
+3C 	Zarfam	50-24	non deteriorated	2	52
+3C 	Zarfam	50-24	non deteriorated	3	50
+3C 	Zarfam	50-24	prime then deterioration	1	0
+3C 	Zarfam	50-24	prime then deterioration	2	0
+3C 	Zarfam	50-24	prime then deterioration	3	0
+3C 	Zarfam	50-24	deterioration then prime	1	10
+3C 	Zarfam	50-24	deterioration then prime	2	0
+3C 	Zarfam	50-24	deterioration then prime	3	0
+3C 	Zarfam	50-40	non deteriorated	1	78
+3C 	Zarfam	50-40	non deteriorated	2	78
+3C 	Zarfam	50-40	non deteriorated	3	86
+3C 	Zarfam	50-40	prime then deterioration	1	0
+3C 	Zarfam	50-40	prime then deterioration	2	0
+3C 	Zarfam	50-40	prime then deterioration	3	0
+3C 	Zarfam	50-40	deterioration then prime	1	0
+3C 	Zarfam	50-40	deterioration then prime	2	0
+3C 	Zarfam	50-40	deterioration then prime	3	0
+3C 	Zarfam	100-24	non deteriorated	1	68
+3C 	Zarfam	100-24	non deteriorated	2	56
+3C 	Zarfam	100-24	non deteriorated	3	48
+3C 	Zarfam	100-24	prime then deterioration	1	0
+3C 	Zarfam	100-24	prime then deterioration	2	0
+3C 	Zarfam	100-24	prime then deterioration	3	0
+3C 	Zarfam	100-24	deterioration then prime	1	2
+3C 	Zarfam	100-24	deterioration then prime	2	0
+3C 	Zarfam	100-24	deterioration then prime	3	0
+3C 	Zarfam	100-40	non deteriorated	1	60
+3C 	Zarfam	100-40	non deteriorated	2	50
+3C 	Zarfam	100-40	non deteriorated	3	60
+3C 	Zarfam	100-40	prime then deterioration	1	0
+3C 	Zarfam	100-40	prime then deterioration	2	0
+3C 	Zarfam	100-40	prime then deterioration	3	0
+3C 	Zarfam	100-40	deterioration then prime	1	10
+3C 	Zarfam	100-40	deterioration then prime	2	0
+3C 	Zarfam	100-40	deterioration then prime	3	0
+3C 	Zarfam	150-24	non deteriorated	1	50
+3C 	Zarfam	150-24	non deteriorated	2	56
+3C 	Zarfam	150-24	non deteriorated	3	58
+3C 	Zarfam	150-24	prime then deterioration	1	0
+3C 	Zarfam	150-24	prime then deterioration	2	0
+3C 	Zarfam	150-24	prime then deterioration	3	0
+3C 	Zarfam	150-24	deterioration then prime	1	0
+3C 	Zarfam	150-24	deterioration then prime	2	0
+3C 	Zarfam	150-24	deterioration then prime	3	0
+3C 	Zarfam	150-40	non deteriorated	1	72
+3C 	Zarfam	150-40	non deteriorated	2	74
+3C 	Zarfam	150-40	non deteriorated	3	56
+3C 	Zarfam	150-40	prime then deterioration	1	0
+3C 	Zarfam	150-40	prime then deterioration	2	0
+3C 	Zarfam	150-40	prime then deterioration	3	0
+3C 	Zarfam	150-40	deterioration then prime	1	2
+3C 	Zarfam	150-40	deterioration then prime	2	0
+3C 	Zarfam	150-40	deterioration then prime	3	0
+3C 	Zarfam	hydro	non deteriorated	1	44
+3C 	Zarfam	hydro	non deteriorated	2	42
+3C 	Zarfam	hydro	non deteriorated	3	52
+3C 	Zarfam	hydro	prime then deterioration	1	0
+3C 	Zarfam	hydro	prime then deterioration	2	0
+3C 	Zarfam	hydro	prime then deterioration	3	0
+3C 	Zarfam	hydro	deterioration then prime	1	0
+3C 	Zarfam	hydro	deterioration then prime	2	0
+3C 	Zarfam	hydro	deterioration then prime	3	0
+3C 	Zarfam	c	non deteriorated	1	8
+3C 	Zarfam	c	non deteriorated	2	0
+3C 	Zarfam	c	non deteriorated	3	0
+3C 	Zarfam	c	prime then deterioration	1	0
+3C 	Zarfam	c	prime then deterioration	2	0
+3C 	Zarfam	c	prime then deterioration	3	0
+3C 	Zarfam	c	deterioration then prime	1	0
+3C 	Zarfam	c	deterioration then prime	2	0
+3C 	Zarfam	c	deterioration then prime	3	0
+3C 	RGS003	50-24	non deteriorated	1	36
+3C 	RGS003	50-24	non deteriorated	2	64
+3C 	RGS003	50-24	non deteriorated	3	38
+3C 	RGS003	50-24	prime then deterioration	1	0
+3C 	RGS003	50-24	prime then deterioration	2	2
+3C 	RGS003	50-24	prime then deterioration	3	0
+3C 	RGS003	50-24	deterioration then prime	1	0
+3C 	RGS003	50-24	deterioration then prime	2	0
+3C 	RGS003	50-24	deterioration then prime	3	0
+3C 	RGS003	50-40	non deteriorated	1	54
+3C 	RGS003	50-40	non deteriorated	2	14
+3C 	RGS003	50-40	non deteriorated	3	4
+3C 	RGS003	50-40	prime then deterioration	1	0
+3C 	RGS003	50-40	prime then deterioration	2	0
+3C 	RGS003	50-40	prime then deterioration	3	0
+3C 	RGS003	50-40	deterioration then prime	1	0
+3C 	RGS003	50-40	deterioration then prime	2	0
+3C 	RGS003	50-40	deterioration then prime	3	0
+3C 	RGS003	100-24	non deteriorated	1	66
+3C 	RGS003	100-24	non deteriorated	2	26
+3C 	RGS003	100-24	non deteriorated	3	34
+3C 	RGS003	100-24	prime then deterioration	1	0
+3C 	RGS003	100-24	prime then deterioration	2	0
+3C 	RGS003	100-24	prime then deterioration	3	0
+3C 	RGS003	100-24	deterioration then prime	1	6
+3C 	RGS003	100-24	deterioration then prime	2	0
+3C 	RGS003	100-24	deterioration then prime	3	0
+3C 	RGS003	100-40	non deteriorated	1	52
+3C 	RGS003	100-40	non deteriorated	2	4
+3C 	RGS003	100-40	non deteriorated	3	26
+3C 	RGS003	100-40	prime then deterioration	1	0
+3C 	RGS003	100-40	prime then deterioration	2	0
+3C 	RGS003	100-40	prime then deterioration	3	0
+3C 	RGS003	100-40	deterioration then prime	1	2
+3C 	RGS003	100-40	deterioration then prime	2	0
+3C 	RGS003	100-40	deterioration then prime	3	0
+3C 	RGS003	150-24	non deteriorated	1	28
+3C 	RGS003	150-24	non deteriorated	2	24
+3C 	RGS003	150-24	non deteriorated	3	30
+3C 	RGS003	150-24	prime then deterioration	1	0
+3C 	RGS003	150-24	prime then deterioration	2	0
+3C 	RGS003	150-24	prime then deterioration	3	0
+3C 	RGS003	150-24	deterioration then prime	1	0
+3C 	RGS003	150-24	deterioration then prime	2	0
+3C 	RGS003	150-24	deterioration then prime	3	0
+3C 	RGS003	150-40	non deteriorated	1	48
+3C 	RGS003	150-40	non deteriorated	2	4
+3C 	RGS003	150-40	non deteriorated	3	18
+3C 	RGS003	150-40	prime then deterioration	1	0
+3C 	RGS003	150-40	prime then deterioration	2	0
+3C 	RGS003	150-40	prime then deterioration	3	0
+3C 	RGS003	150-40	deterioration then prime	1	0
+3C 	RGS003	150-40	deterioration then prime	2	0
+3C 	RGS003	150-40	deterioration then prime	3	0
+3C 	RGS003	hydro	non deteriorated	1	14
+3C 	RGS003	hydro	non deteriorated	2	50
+3C 	RGS003	hydro	non deteriorated	3	20
+3C 	RGS003	hydro	prime then deterioration	1	0
+3C 	RGS003	hydro	prime then deterioration	2	0
+3C 	RGS003	hydro	prime then deterioration	3	0
+3C 	RGS003	hydro	deterioration then prime	1	6
+3C 	RGS003	hydro	deterioration then prime	2	0
+3C 	RGS003	hydro	deterioration then prime	3	0
+3C 	RGS003	c	non deteriorated	1	18
+3C 	RGS003	c	non deteriorated	2	0
+3C 	RGS003	c	non deteriorated	3	4
+3C 	RGS003	c	prime then deterioration	1	0
+3C 	RGS003	c	prime then deterioration	2	0
+3C 	RGS003	c	prime then deterioration	3	0
+3C 	RGS003	c	deterioration then prime	1	0
+3C 	RGS003	c	deterioration then prime	2	0
+3C 	RGS003	c	deterioration then prime	3	0
+7C	Zarfam	50-24	non deteriorated	1	82
+7C	Zarfam	50-24	non deteriorated	2	84
+7C	Zarfam	50-24	non deteriorated	3	80
+7C	Zarfam	50-24	prime then deterioration	1	0
+7C	Zarfam	50-24	prime then deterioration	2	0
+7C	Zarfam	50-24	prime then deterioration	3	0
+7C	Zarfam	50-24	deterioration then prime	1	0
+7C	Zarfam	50-24	deterioration then prime	2	0
+7C	Zarfam	50-24	deterioration then prime	3	0
+7C	Zarfam	50-40	non deteriorated	1	86
+7C	Zarfam	50-40	non deteriorated	2	84
+7C	Zarfam	50-40	non deteriorated	3	84
+7C	Zarfam	50-40	prime then deterioration	1	0
+7C	Zarfam	50-40	prime then deterioration	2	0
+7C	Zarfam	50-40	prime then deterioration	3	0
+7C	Zarfam	50-40	deterioration then prime	1	0
+7C	Zarfam	50-40	deterioration then prime	2	0
+7C	Zarfam	50-40	deterioration then prime	3	0
+7C	Zarfam	100-24	non deteriorated	1	82
+7C	Zarfam	100-24	non deteriorated	2	80
+7C	Zarfam	100-24	non deteriorated	3	94
+7C	Zarfam	100-24	prime then deterioration	1	0
+7C	Zarfam	100-24	prime then deterioration	2	0
+7C	Zarfam	100-24	prime then deterioration	3	0
+7C	Zarfam	100-24	deterioration then prime	1	0
+7C	Zarfam	100-24	deterioration then prime	2	0
+7C	Zarfam	100-24	deterioration then prime	3	0
+7C	Zarfam	100-40	non deteriorated	1	80
+7C	Zarfam	100-40	non deteriorated	2	90
+7C	Zarfam	100-40	non deteriorated	3	88
+7C	Zarfam	100-40	prime then deterioration	1	0
+7C	Zarfam	100-40	prime then deterioration	2	0
+7C	Zarfam	100-40	prime then deterioration	3	0
+7C	Zarfam	100-40	deterioration then prime	1	0
+7C	Zarfam	100-40	deterioration then prime	2	0
+7C	Zarfam	100-40	deterioration then prime	3	0
+7C	Zarfam	150-24	non deteriorated	1	86
+7C	Zarfam	150-24	non deteriorated	2	80
+7C	Zarfam	150-24	non deteriorated	3	94
+7C	Zarfam	150-24	prime then deterioration	1	0
+7C	Zarfam	150-24	prime then deterioration	2	0
+7C	Zarfam	150-24	prime then deterioration	3	0
+7C	Zarfam	150-24	deterioration then prime	1	0
+7C	Zarfam	150-24	deterioration then prime	2	0
+7C	Zarfam	150-24	deterioration then prime	3	0
+7C	Zarfam	150-40	non deteriorated	1	82
+7C	Zarfam	150-40	non deteriorated	2	84
+7C	Zarfam	150-40	non deteriorated	3	80
+7C	Zarfam	150-40	prime then deterioration	1	0
+7C	Zarfam	150-40	prime then deterioration	2	0
+7C	Zarfam	150-40	prime then deterioration	3	0
+7C	Zarfam	150-40	deterioration then prime	1	0
+7C	Zarfam	150-40	deterioration then prime	2	0
+7C	Zarfam	150-40	deterioration then prime	3	0
+7C	Zarfam	hydro	non deteriorated	1	88
+7C	Zarfam	hydro	non deteriorated	2	88
+7C	Zarfam	hydro	non deteriorated	3	80
+7C	Zarfam	hydro	prime then deterioration	1	0
+7C	Zarfam	hydro	prime then deterioration	2	0
+7C	Zarfam	hydro	prime then deterioration	3	0
+7C	Zarfam	hydro	deterioration then prime	1	0
+7C	Zarfam	hydro	deterioration then prime	2	0
+7C	Zarfam	hydro	deterioration then prime	3	0
+7C	Zarfam	c	non deteriorated	1	52
+7C	Zarfam	c	non deteriorated	2	62
+7C	Zarfam	c	non deteriorated	3	52
+7C	Zarfam	c	prime then deterioration	1	0
+7C	Zarfam	c	prime then deterioration	2	0
+7C	Zarfam	c	prime then deterioration	3	0
+7C	Zarfam	c	deterioration then prime	1	0
+7C	Zarfam	c	deterioration then prime	2	0
+7C	Zarfam	c	deterioration then prime	3	0
+7C	RGS003	50-24	non deteriorated	1	92
+7C	RGS003	50-24	non deteriorated	2	96
+7C	RGS003	50-24	non deteriorated	3	94
+7C	RGS003	50-24	prime then deterioration	1	0
+7C	RGS003	50-24	prime then deterioration	2	0
+7C	RGS003	50-24	prime then deterioration	3	0
+7C	RGS003	50-24	deterioration then prime	1	0
+7C	RGS003	50-24	deterioration then prime	2	0
+7C	RGS003	50-24	deterioration then prime	3	0
+7C	RGS003	50-40	non deteriorated	1	96
+7C	RGS003	50-40	non deteriorated	2	86
+7C	RGS003	50-40	non deteriorated	3	76
+7C	RGS003	50-40	prime then deterioration	1	0
+7C	RGS003	50-40	prime then deterioration	2	0
+7C	RGS003	50-40	prime then deterioration	3	0
+7C	RGS003	50-40	deterioration then prime	1	0
+7C	RGS003	50-40	deterioration then prime	2	0
+7C	RGS003	50-40	deterioration then prime	3	0
+7C	RGS003	100-24	non deteriorated	1	94
+7C	RGS003	100-24	non deteriorated	2	100
+7C	RGS003	100-24	non deteriorated	3	98
+7C	RGS003	100-24	prime then deterioration	1	0
+7C	RGS003	100-24	prime then deterioration	2	0
+7C	RGS003	100-24	prime then deterioration	3	0
+7C	RGS003	100-24	deterioration then prime	1	0
+7C	RGS003	100-24	deterioration then prime	2	0
+7C	RGS003	100-24	deterioration then prime	3	0
+7C	RGS003	100-40	non deteriorated	1	92
+7C	RGS003	100-40	non deteriorated	2	96
+7C	RGS003	100-40	non deteriorated	3	88
+7C	RGS003	100-40	prime then deterioration	1	0
+7C	RGS003	100-40	prime then deterioration	2	0
+7C	RGS003	100-40	prime then deterioration	3	0
+7C	RGS003	100-40	deterioration then prime	1	0
+7C	RGS003	100-40	deterioration then prime	2	0
+7C	RGS003	100-40	deterioration then prime	3	0
+7C	RGS003	150-24	non deteriorated	1	96
+7C	RGS003	150-24	non deteriorated	2	94
+7C	RGS003	150-24	non deteriorated	3	80
+7C	RGS003	150-24	prime then deterioration	1	0
+7C	RGS003	150-24	prime then deterioration	2	0
+7C	RGS003	150-24	prime then deterioration	3	0
+7C	RGS003	150-24	deterioration then prime	1	0
+7C	RGS003	150-24	deterioration then prime	2	0
+7C	RGS003	150-24	deterioration then prime	3	0
+7C	RGS003	150-40	non deteriorated	1	92
+7C	RGS003	150-40	non deteriorated	2	78
+7C	RGS003	150-40	non deteriorated	3	72
+7C	RGS003	150-40	prime then deterioration	1	0
+7C	RGS003	150-40	prime then deterioration	2	0
+7C	RGS003	150-40	prime then deterioration	3	0
+7C	RGS003	150-40	deterioration then prime	1	0
+7C	RGS003	150-40	deterioration then prime	2	0
+7C	RGS003	150-40	deterioration then prime	3	0
+7C	RGS003	hydro	non deteriorated	1	70
+7C	RGS003	hydro	non deteriorated	2	72
+7C	RGS003	hydro	non deteriorated	3	84
+7C	RGS003	hydro	prime then deterioration	1	0
+7C	RGS003	hydro	prime then deterioration	2	0
+7C	RGS003	hydro	prime then deterioration	3	0
+7C	RGS003	hydro	deterioration then prime	1	0
+7C	RGS003	hydro	deterioration then prime	2	0
+7C	RGS003	hydro	deterioration then prime	3	0
+7C	RGS003	c	non deteriorated	1	80
+7C	RGS003	c	non deteriorated	2	68
+7C	RGS003	c	non deteriorated	3	72
+7C	RGS003	c	prime then deterioration	1	0
+7C	RGS003	c	prime then deterioration	2	0
+7C	RGS003	c	prime then deterioration	3	0
+7C	RGS003	c	deterioration then prime	1	0
+7C	RGS003	c	deterioration then prime	2	0
+7C	RGS003	c	deterioration then prime	3	0
+20C	Zarfam	50-24	non deteriorated	1	92
+20C	Zarfam	50-24	non deteriorated	2	98
+20C	Zarfam	50-24	non deteriorated	3	94
+20C	Zarfam	50-24	prime then deterioration	1	16
+20C	Zarfam	50-24	prime then deterioration	2	14
+20C	Zarfam	50-24	prime then deterioration	3	12
+20C	Zarfam	50-24	deterioration then prime	1	2
+20C	Zarfam	50-24	deterioration then prime	2	2
+20C	Zarfam	50-24	deterioration then prime	3	26
+20C	Zarfam	50-40	non deteriorated	1	90
+20C	Zarfam	50-40	non deteriorated	2	94
+20C	Zarfam	50-40	non deteriorated	3	94
+20C	Zarfam	50-40	prime then deterioration	1	8
+20C	Zarfam	50-40	prime then deterioration	2	10
+20C	Zarfam	50-40	prime then deterioration	3	6
+20C	Zarfam	50-40	deterioration then prime	1	16
+20C	Zarfam	50-40	deterioration then prime	2	16
+20C	Zarfam	50-40	deterioration then prime	3	18
+20C	Zarfam	100-24	non deteriorated	1	98
+20C	Zarfam	100-24	non deteriorated	2	94
+20C	Zarfam	100-24	non deteriorated	3	100
+20C	Zarfam	100-24	prime then deterioration	1	10
+20C	Zarfam	100-24	prime then deterioration	2	12
+20C	Zarfam	100-24	prime then deterioration	3	8
+20C	Zarfam	100-24	deterioration then prime	1	10
+20C	Zarfam	100-24	deterioration then prime	2	74
+20C	Zarfam	100-24	deterioration then prime	3	16
+20C	Zarfam	100-40	non deteriorated	1	96
+20C	Zarfam	100-40	non deteriorated	2	92
+20C	Zarfam	100-40	non deteriorated	3	94
+20C	Zarfam	100-40	prime then deterioration	1	48
+20C	Zarfam	100-40	prime then deterioration	2	38
+20C	Zarfam	100-40	prime then deterioration	3	58
+20C	Zarfam	100-40	deterioration then prime	1	0
+20C	Zarfam	100-40	deterioration then prime	2	0
+20C	Zarfam	100-40	deterioration then prime	3	0
+20C	Zarfam	150-24	non deteriorated	1	96
+20C	Zarfam	150-24	non deteriorated	2	94
+20C	Zarfam	150-24	non deteriorated	3	92
+20C	Zarfam	150-24	prime then deterioration	1	36
+20C	Zarfam	150-24	prime then deterioration	2	32
+20C	Zarfam	150-24	prime then deterioration	3	40
+20C	Zarfam	150-24	deterioration then prime	1	20
+20C	Zarfam	150-24	deterioration then prime	2	48
+20C	Zarfam	150-24	deterioration then prime	3	68
+20C	Zarfam	150-40	non deteriorated	1	92
+20C	Zarfam	150-40	non deteriorated	2	92
+20C	Zarfam	150-40	non deteriorated	3	94
+20C	Zarfam	150-40	prime then deterioration	1	44
+20C	Zarfam	150-40	prime then deterioration	2	42
+20C	Zarfam	150-40	prime then deterioration	3	46
+20C	Zarfam	150-40	deterioration then prime	1	38
+20C	Zarfam	150-40	deterioration then prime	2	2
+20C	Zarfam	150-40	deterioration then prime	3	6
+20C	Zarfam	hydro	non deteriorated	1	96
+20C	Zarfam	hydro	non deteriorated	2	94
+20C	Zarfam	hydro	non deteriorated	3	98
+20C	Zarfam	hydro	prime then deterioration	1	40
+20C	Zarfam	hydro	prime then deterioration	2	44
+20C	Zarfam	hydro	prime then deterioration	3	36
+20C	Zarfam	hydro	deterioration then prime	1	44
+20C	Zarfam	hydro	deterioration then prime	2	48
+20C	Zarfam	hydro	deterioration then prime	3	70
+20C	Zarfam	c	non deteriorated	1	92
+20C	Zarfam	c	non deteriorated	2	90
+20C	Zarfam	c	non deteriorated	3	90
+20C	Zarfam	c	prime then deterioration	1	0
+20C	Zarfam	c	prime then deterioration	2	0
+20C	Zarfam	c	prime then deterioration	3	0
+20C	Zarfam	c	deterioration then prime	1	0
+20C	Zarfam	c	deterioration then prime	2	0
+20C	Zarfam	c	deterioration then prime	3	4
+20C	RGS003	50-24	non deteriorated	1	84
+20C	RGS003	50-24	non deteriorated	2	100
+20C	RGS003	50-24	non deteriorated	3	98
+20C	RGS003	50-24	prime then deterioration	1	0
+20C	RGS003	50-24	prime then deterioration	2	0
+20C	RGS003	50-24	prime then deterioration	3	0
+20C	RGS003	50-24	deterioration then prime	1	58
+20C	RGS003	50-24	deterioration then prime	2	78
+20C	RGS003	50-24	deterioration then prime	3	52
+20C	RGS003	50-40	non deteriorated	1	94
+20C	RGS003	50-40	non deteriorated	2	98
+20C	RGS003	50-40	non deteriorated	3	92
+20C	RGS003	50-40	prime then deterioration	1	22
+20C	RGS003	50-40	prime then deterioration	2	26
+20C	RGS003	50-40	prime then deterioration	3	18
+20C	RGS003	50-40	deterioration then prime	1	82
+20C	RGS003	50-40	deterioration then prime	2	80
+20C	RGS003	50-40	deterioration then prime	3	78
+20C	RGS003	100-24	non deteriorated	1	94
+20C	RGS003	100-24	non deteriorated	2	100
+20C	RGS003	100-24	non deteriorated	3	100
+20C	RGS003	100-24	prime then deterioration	1	10
+20C	RGS003	100-24	prime then deterioration	2	12
+20C	RGS003	100-24	prime then deterioration	3	8
+20C	RGS003	100-24	deterioration then prime	1	66
+20C	RGS003	100-24	deterioration then prime	2	66
+20C	RGS003	100-24	deterioration then prime	3	56
+20C	RGS003	100-40	non deteriorated	1	100
+20C	RGS003	100-40	non deteriorated	2	94
+20C	RGS003	100-40	non deteriorated	3	98
+20C	RGS003	100-40	prime then deterioration	1	46
+20C	RGS003	100-40	prime then deterioration	2	50
+20C	RGS003	100-40	prime then deterioration	3	42
+20C	RGS003	100-40	deterioration then prime	1	78
+20C	RGS003	100-40	deterioration then prime	2	14
+20C	RGS003	100-40	deterioration then prime	3	80
+20C	RGS003	150-24	non deteriorated	1	98
+20C	RGS003	150-24	non deteriorated	2	96
+20C	RGS003	150-24	non deteriorated	3	98
+20C	RGS003	150-24	prime then deterioration	1	22
+20C	RGS003	150-24	prime then deterioration	2	24
+20C	RGS003	150-24	prime then deterioration	3	20
+20C	RGS003	150-24	deterioration then prime	1	62
+20C	RGS003	150-24	deterioration then prime	2	38
+20C	RGS003	150-24	deterioration then prime	3	38
+20C	RGS003	150-40	non deteriorated	1	94
+20C	RGS003	150-40	non deteriorated	2	96
+20C	RGS003	150-40	non deteriorated	3	98
+20C	RGS003	150-40	prime then deterioration	1	44
+20C	RGS003	150-40	prime then deterioration	2	46
+20C	RGS003	150-40	prime then deterioration	3	42
+20C	RGS003	150-40	deterioration then prime	1	22
+20C	RGS003	150-40	deterioration then prime	2	40
+20C	RGS003	150-40	deterioration then prime	3	42
+20C	RGS003	hydro	non deteriorated	1	96
+20C	RGS003	hydro	non deteriorated	2	90
+20C	RGS003	hydro	non deteriorated	3	92
+20C	RGS003	hydro	prime then deterioration	1	12
+20C	RGS003	hydro	prime then deterioration	2	10
+20C	RGS003	hydro	prime then deterioration	3	14
+20C	RGS003	hydro	deterioration then prime	1	64
+20C	RGS003	hydro	deterioration then prime	2	44
+20C	RGS003	hydro	deterioration then prime	3	74
+20C	RGS003	c	non deteriorated	1	96
+20C	RGS003	c	non deteriorated	2	90
+20C	RGS003	c	non deteriorated	3	80
+20C	RGS003	c	prime then deterioration	1	0
+20C	RGS003	c	prime then deterioration	2	0
+20C	RGS003	c	prime then deterioration	3	0
+20C	RGS003	c	deterioration then prime	1	62
+20C	RGS003	c	deterioration then prime	2	38
+20C	RGS003	c	deterioration then prime	3	20
