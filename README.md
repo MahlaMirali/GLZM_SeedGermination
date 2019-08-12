@@ -1,2 +1,2 @@
-# GLZM_SeedGermination
+# GLZM-SeedGermination
 Generalized linear model for canola seed germination
